@@ -5,7 +5,7 @@ Welcome to the repository of my personal portfolio website! This dynamic and ful
 This project was developed as part of **Assessment Task 1** for the **InAmigos Foundation**.
 
 ## 🚀 Live Demo
-
+Click on the link for the live demo - https://tanishk1906.github.io/Portfolio-Website/
 
 ## ✨ Key Features
 *   **Modern UI/UX:** Clean, glassmorphism aesthetic with a smooth, professional layout.
